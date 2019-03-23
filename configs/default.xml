@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <feature automatic="selected" name="ejemplocajeroautomatico"/>
+    <feature automatic="selected" name="ConsultarSaldo"/>
+    <feature automatic="selected" name="HacerRetiro"/>
+    <feature automatic="selected" name="VerOperaciones"/>
+</configuration>
